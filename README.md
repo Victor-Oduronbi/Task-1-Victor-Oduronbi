@@ -84,7 +84,7 @@ Based on the classification support metrics:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Victor-Oduronbi/Task-1-Victor-Oduronbi.git
    cd diabetes-analytics-decodelabs
    ```
 
